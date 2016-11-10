@@ -20,6 +20,4 @@ You’ll learn some important features of Stamplay, including how to:
 
 [Here’s what the final result will look like](https://slackinvites.stamplayapp.com/) – not bad for less than 30 minutes’ work!
 
-![picture alt](https://blog.stamplay.com/wp-content/uploads/2015/08/Screen-Shot-2015-08-24-at-17.06.26.png "Your automated Slack signup page")
-
 ###[Click here to read the full tutorial](https://blog.stamplay.com/launch-your-community-with-a-fully-automated-slack-signup-page/)###
