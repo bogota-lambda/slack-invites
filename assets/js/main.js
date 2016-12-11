@@ -169,12 +169,12 @@ function getParameterByName(name) {
 							webhook.post(data).then(function (response) {
 								$form.reset();
 							  $submit.disabled = false;
-							  $message._show('success', 'The invite is on its way!');
+							  $message._show('success', '¡Tu invitación está en camino!');
 							});
 						} else {
 								$form.reset();
 							  $submit.disabled = false;
-							  $message._show('error', 'Please type a valid email address');
+							  $message._show('error', 'Por favor dános una dirección de correo valida.');
 						}						
 
 				});
